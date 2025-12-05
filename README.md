@@ -3,9 +3,9 @@
 Olen **Mikael Virtanen**, tieto- ja viestintätekniikan insinööri ja työskentelen **Fullstack Web Developerina**.  
 Rakennan moderneja ja responsiivisia verkkosovelluksia.  
 
-💻 Viimeaikaisiin projekteihini kuuluu **X Clone**, jossa käyttäjät voivat tehdä postauksia, reagoida muiden julkaisuihin ja seurata toisiaan.  
+💻 Viimeaikaisiin projekteihini kuuluu **X Clone**, jossa käyttäjät voivat tehdä postauksia, reagoida muiden julkaisuihin ja seurata toisiaan. Sekä **Pokémon Card Collection**, jossa käyttäjä voi hakea kortteja Pokémon API:n avulla ja lisätä niitä omaan kokoelmaansa. 
 
-🚀 Työn alla on **Pokémon Card Collection**, jossa käyttäjä voi hakea kortteja Pokémon API:n avulla ja lisätä niitä omaan kokoelmaansa.  
+🚀 Työn alla on oma **porfolio sivu** josta pääsisi helposti selaamaan eri projekteja.
 
 ⚙️ Teknologioita joita käytän: React, Vite, Tailwind CSS, Node.js, Express, MongoDB ja JWT.
 
