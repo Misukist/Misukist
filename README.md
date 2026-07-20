@@ -2,11 +2,13 @@
 
 Olen Mikael Virtanen, tieto- ja viestintätekniikan insinööri. Kiinnostukseni kohteita ovat ohjelmistokehitys, järjestelmähallinta ja pilvipalvelut.
 
-💻 Projektini koostuvat sekä full stack -sovelluksista että yritys-ITä simuloivasta Enterprise Systems Lab -projektista. Full stack -projekteihini kuuluvat esimerkiksi X Clone, jossa käyttäjät voivat julkaista sisältöä ja olla vuorovaikutuksessa toistensa kanssa, sekä Pokémon Card Collection, joka hyödyntää Pokémon TCG API korttien hakemiseen ja kokoelman hallintaan.
+💻 Projektini koostuvat sekä full stack -sovelluksista että yritysympäristöä simuloivasta Enterprise Systems Lab -projektista. Full stack -projekteihini kuuluvat esimerkiksi X Clone, jossa käyttäjät voivat julkaista sisältöä ja olla vuorovaikutuksessa toistensa kanssa, sekä Pokémon Card Collection, joka hyödyntää Pokémon TCG API korttien hakemiseen ja kokoelman hallintaan.
 
-🖥️ Enterprise Systems Labissa rakennan vaihe vaiheelta yritysympäristöä hyödyntäen teknologioita, kuten Windows Server, Active Directory, Group Policy, DNS, DHCP, Microsoft Azure, Microsoft Entra ID ja Docker. Projektin tavoitteena on kehittää käytännön osaamista järjestelmähallinnasta ja dokumentoida oppiminen GitHub-portfolioksi.
+🖥️ Halusin tuoda ilmi myös GitHubiin yritysympäristöön liittyvää IT-osaammistani joten Enterprise Systems Labissa rakennan vaihe vaiheelta teknologioita, kuten Windows Server, Active Directory, Group Policy, DNS, DHCP, Microsoft Azure, Microsoft Entra ID sekä Docker. Projektin tavoitteena on kehittää käytännön osaamista järjestelmähallinnasta ja dokumentoida oppiminen GitHub-portfolioksi.
 
-⚙️ Teknologioita, joiden parissa työskentelen: React, TypeScript, Vite, Tailwind CSS, Node.js, Express, MongoDB, JWT, Windows Server, Active Directory, Microsoft Azure, Microsoft Entra ID, Docker, Git ja GitHub.
+🔭 Tällä hetkellä työstän Enterprise System Labia joka tulee olemaan isompi kokonaisuus.
+
+⚙️ Teknologioita, joiden parissa työskentelen: React, Vite, Tailwind CSS, Node.js, Express, MongoDB, JWT, Windows Server, Active Directory, Microsoft Azure, Microsoft Entra ID, Docker, Git ja GitHub.
 
 
 <!--
