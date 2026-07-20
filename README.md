@@ -1,16 +1,12 @@
 ## 👋 Hei
 
-Olen **Mikael Virtanen**, tieto- ja viestintätekniikan insinööri ja työskentelen **Fullstack Web Developerina**.  
-Rakennan moderneja ja responsiivisia verkkosovelluksia.  
+Olen Mikael Virtanen, tieto- ja viestintätekniikan insinööri. Kiinnostukseni kohteita ovat ohjelmistokehitys, järjestelmähallinta ja pilvipalvelut.
 
-💻 Viimeaikaisiin projekteihini kuuluu **X Clone**, jossa käyttäjät voivat tehdä postauksia, reagoida muiden julkaisuihin ja seurata toisiaan. Sekä **Pokémon Card Collection**, jossa käyttäjä voi hakea kortteja Pokémon API:n avulla ja lisätä niitä omaan kokoelmaansa. 
+💻 Projektini koostuvat sekä full stack -sovelluksista että yritys-ITä simuloivasta Enterprise Systems Lab -projektista. Full stack -projekteihini kuuluvat esimerkiksi X Clone, jossa käyttäjät voivat julkaista sisältöä ja olla vuorovaikutuksessa toistensa kanssa, sekä Pokémon Card Collection, joka hyödyntää Pokémon TCG API korttien hakemiseen ja kokoelman hallintaan.
 
-🚀 Chatbot joka olisi kiva integroida chatsovellukseen.
+🖥️ Enterprise Systems Labissa rakennan vaihe vaiheelta yritysympäristöä hyödyntäen teknologioita, kuten Windows Server, Active Directory, Group Policy, DNS, DHCP, Microsoft Azure, Microsoft Entra ID ja Docker. Projektin tavoitteena on kehittää käytännön osaamista järjestelmähallinnasta ja dokumentoida oppiminen GitHub-portfolioksi.
 
-⚙️ Teknologioita joita käytän: React, Vite, Tailwind CSS, Node.js, Express, MongoDB ja JWT.
-
-
-
+⚙️ Teknologioita, joiden parissa työskentelen: React, TypeScript, Vite, Tailwind CSS, Node.js, Express, MongoDB, JWT, Windows Server, Active Directory, Microsoft Azure, Microsoft Entra ID, Docker, Git ja GitHub.
 
 
 <!--
