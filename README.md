@@ -4,7 +4,7 @@ Olen Mikael Virtanen, tieto- ja viestintätekniikan insinööri. Kiinnostukseni 
 
 💻 Projektini koostuvat sekä full stack -sovelluksista että yritysympäristöä simuloivasta Enterprise Systems Lab -projektista. Full stack -projekteihini kuuluvat esimerkiksi X Clone, jossa käyttäjät voivat julkaista sisältöä ja olla vuorovaikutuksessa toistensa kanssa, sekä Pokémon Card Collection, joka hyödyntää Pokémon TCG API korttien hakemiseen ja kokoelman hallintaan.
 
-🖥️ Halusin tuoda ilmi myös GitHubiin yritysympäristöön liittyvää IT-osaammistani joten Enterprise Systems Labissa rakennan vaihe vaiheelta teknologioita, kuten Windows Server, Active Directory, Group Policy, DNS, DHCP, Microsoft Azure, Microsoft Entra ID sekä Docker. Projektin tavoitteena on kehittää käytännön osaamista järjestelmähallinnasta ja dokumentoida oppiminen GitHub-portfolioksi.
+✨ Halusin tuoda ilmi myös GitHubiin yritysympäristöön liittyvää IT-osaammistani joten Enterprise Systems Labissa rakennan vaihe vaiheelta teknologioita, kuten Windows Server, Active Directory, Group Policy, DNS, DHCP, Microsoft Azure, Microsoft Entra ID sekä Docker. Projektin tavoitteena on kehittää käytännön osaamista järjestelmähallinnasta ja dokumentoida oppiminen GitHub-portfolioksi.
 
 🔭 Tällä hetkellä työstän Enterprise System Labia joka tulee olemaan isompi kokonaisuus.
 
